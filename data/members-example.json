@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b2f4a9e1-0d1f-4f1a-8c9a-2a0f8f3fe3a1",
+    "apartmentNumber": "1203",
+    "address": "Harry Martinsons gata 3",
+    "name": "Anna Andersson"
+  },
+  {
+    "id": "c3e5b8f2-1e2f-5f2b-9d0b-3b1f9f4fe4b2",
+    "apartmentNumber": "0804",
+    "address": "Harry Martinsons gata 3",
+    "name": "Erik Johansson"
+  },
+  {
+    "id": "d4f6c9g3-2f3g-6g3c-ae1c-4c2gag5gf5c3",
+    "apartmentNumber": "1507",
+    "address": "Harry Martinsons gata 3",
+    "name": "Maria Lindström"
+  },
+  {
+    "id": "e5g7d0h4-3g4h-7h4d-bf2d-5d3hbh6hg6d4",
+    "apartmentNumber": "0302",
+    "address": "Harry Martinsons gata 3",
+    "name": "Lars Petersson"
+  },
+  {
+    "id": "f6h8e1i5-4h5i-8i5e-cg3e-6e4ici7ih7e5",
+    "apartmentNumber": "1109",
+    "address": "Harry Martinsons gata 3",
+    "name": "Ingrid Svensson"
+  }
+]
